@@ -1,0 +1,13 @@
+{
+  "tasks": {
+    "Draft": [],
+    "Research": [],
+    "Review": [
+      "Draft",
+      "Research"
+    ],
+    "Publish": [
+      "Review"
+    ]
+  }
+}
